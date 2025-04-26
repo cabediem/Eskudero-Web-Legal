@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad - Eskudero</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #34495e;
+            margin-top: 25px;
+        }
+        .effective-date {
+            font-style: italic;
+            margin-bottom: 30px;
+            color: #7f8c8d;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        .contact-info {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Política de Privacidad</h1>
+        <p class="effective-date">Fecha de entrada en vigor: 16/04/2025</p>
+        
+        <p>En Eskudero, nos comprometemos a proteger y respetar tu privacidad. Esta política explica cómo recopilamos, utilizamos, almacenamos y protegemos tus datos personales cuando utilizas nuestros servicios. Al acceder o utilizar nuestra web, aceptas las prácticas descritas en esta política.</p>
+        
+        <h2>1. Información que Recopilamos</h2>
+        <p>Solo recopilamos datos personales de los usuarios que adquieren alguno de nuestros servicios. La información que podemos recopilar incluye:</p>
+        <ul>
+            <li>Nombre y apellidos</li>
+            <li>Dirección de correo electrónico</li>
+            <li>Datos de facturación (en caso de transacciones)</li>
+            <li>Grabaciones de las conversaciones (únicamente en la zona privada del servicio contratado)</li>
+        </ul>
+        
+        <h2>2. Uso de los Datos</h2>
+        <p>Los datos personales recopilados se utilizan exclusivamente para:</p>
+        <ul>
+            <li>Proporcionar y gestionar los servicios contratados</li>
+            <li>Mejorar la experiencia del usuario</li>
+            <li>Garantizar la seguridad y el correcto funcionamiento de nuestros servicios</li>
+            <li>Cumplir con obligaciones legales y regulatorias</li>
+        </ul>
+        
+        <h2>3. Almacenamiento de Datos</h2>
+        <p>Tus datos se almacenan en bases de datos alojadas en los servidores de Google Cloud, que cumplen con altos estándares de seguridad. Las grabaciones de conversaciones se guardan en repositorios privados, también alojados en servidores de Google, y solo son accesibles para el usuario correspondiente.</p>
+        
+        <h2>4. Acceso y Control de tus Datos</h2>
+        <p>Tienes derecho a:</p>
+        <ul>
+            <li>Acceder, rectificar o solicitar la eliminación de tus datos personales</li>
+            <li>Solicitar una copia de la información que tenemos sobre ti</li>
+            <li>Oponerte al tratamiento de tus datos en ciertas circunstancias</li>
+        </ul>
+        <p>Para ejercer estos derechos, puedes contactarnos en <a href="mailto:hola@cabediem.com">hola@cabediem.com</a>.</p>
+        
+        <h2>5. Retención y Eliminación de Datos</h2>
+        <ul>
+            <li>Conservaremos tus datos personales mientras mantengas una cuenta activa en Eskudero.</li>
+            <li>Una vez que solicites la baja, tus datos personales se eliminarán de nuestros sistemas, excepto aquellos que debamos conservar por obligaciones legales.</li>
+            <li>Las grabaciones de conversaciones se eliminarán en un plazo máximo de 30 días desde la baja del servicio.</li>
+        </ul>
+        
+        <h2>6. Compartir Datos con Terceros</h2>
+        <p>No compartimos, vendemos ni transferimos tus datos personales a terceros, excepto cuando sea necesario para el cumplimiento de la ley o en casos de proveedores de servicios esenciales (como Google Cloud) que actúan bajo nuestras instrucciones y con estrictas medidas de confidencialidad.</p>
+        
+        <h2>7. Seguridad de los Datos</h2>
+        <p>Implementamos medidas técnicas y organizativas para proteger tus datos contra accesos no autorizados, pérdida o alteración. Sin embargo, ningún sistema es 100% seguro, por lo que no podemos garantizar seguridad absoluta.</p>
+        
+        <h2>8. Cambios en esta Política</h2>
+        <p>Nos reservamos el derecho de modificar esta política en cualquier momento. Cualquier cambio será publicado en esta página con la fecha de actualización correspondiente. Te recomendamos revisarla periódicamente.</p>
+        
+        <h2>9. Contacto</h2>
+        <div class="contact-info">
+            <p>Si tienes preguntas sobre esta política o el tratamiento de tus datos, puedes contactarnos en:</p>
+            <ul>
+                <li>Correo electrónico: <a href="mailto:hola@cabediem.com">hola@cabediem.com</a></li>
+            </ul>
+        </div>
+        
+        <p>Gracias por confiar en Eskudero.</p>
+    </div>
+</body>
+</html>
