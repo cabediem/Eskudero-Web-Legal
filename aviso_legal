@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aviso Legal - Eskudero</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+            text-align: center;
+        }
+        h2 {
+            color: #34495e;
+            margin-top: 25px;
+        }
+        .update-date {
+            font-style: italic;
+            text-align: right;
+            margin-top: 30px;
+            border-top: 1px solid #eee;
+            padding-top: 10px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        .contact-info {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 15px;
+        }
+        .highlight {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>AVISO LEGAL DE LA WEB ESKUDERO</h1>
+        
+        <p>El presente aviso legal tiene como finalidad establecer y regular las normas de uso del sitio web www.eskudero.com (en adelante, el "SITIO WEB"), entendiendo por este todas sus páginas y contenidos accesibles a través del dominio y sus subdominios, así como dominios relacionados (www.eskudero.es y www.eskudero.app).</p>
+        
+        <h2>1. Identidad y titularidad del SITIO WEB</h2>
+        <p>De conformidad con el artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y del Comercio Electrónico (LSSI-CE), se informa de los siguientes datos relativos a la titularidad del SITIO WEB:</p>
+        <ul>
+            <li><span class="highlight">Titular:</span> CabeDiem S.L. (en adelante, "CabeDiem").</li>
+            <li><span class="highlight">Domicilio social:</span> Avenida Askatasuna 5B, 3B, Bilbao (48003), Bizkaia.</li>
+            <li><span class="highlight">C.I.F.:</span> B56621501.</li>
+            <li><span class="highlight">Email de contacto:</span> <a href="mailto:hola@cabediem.com">hola@cabediem.com</a>.</li>
+        </ul>
+        
+        <h2>2. Condiciones de uso</h2>
+        <p>El acceso, navegación y utilización del SITIO WEB atribuye al visitante la condición de USUARIO, lo que implica la aceptación expresa y sin reservas de las presentes condiciones. En caso de no estar de acuerdo, el USUARIO deberá abstenerse de utilizar el sitio.</p>
+        <p>Como USUARIO, usted se compromete a:</p>
+        <ul>
+            <li>Utilizar el SITIO WEB conforme a la ley, la moral, la buena fe y el orden público.</li>
+            <li>No emplearlo para fines ilícitos, difundir contenidos xenófobos, violentos o pornográficos, o vulnerar derechos de terceros.</li>
+            <li>No reproducir, distribuir o modificar contenidos sin autorización expresa de CabeDiem.</li>
+            <li>No introducir virus o sistemas que dañen el sitio o a terceros.</li>
+        </ul>
+        <p>CabeDiem se reserva el derecho de denegar el acceso o retirar contenidos sin previo aviso a quienes incumplan estas normas.</p>
+        
+        <h2>3. Propiedad intelectual e industrial</h2>
+        <p>Todos los elementos del SITIO WEB (diseños, textos, imágenes, logos, código, etc.) son propiedad de CabeDiem o de terceros con licencia, protegidos por derechos de propiedad intelectual e industrial. Queda prohibido:</p>
+        <ul>
+            <li>Su reproducción, distribución o comunicación pública sin autorización.</li>
+            <li>Su uso comercial o modificación.</li>
+            <li>Eliminar menciones a derechos de autor.</li>
+        </ul>
+        <p>El USUARIO solo podrá visualizar y descargar contenidos para uso personal y privado.</p>
+        
+        <h2>4. Exclusión de responsabilidades</h2>
+        <p>CabeDiem no garantiza:</p>
+        <ul>
+            <li>La disponibilidad continua del SITIO WEB o la ausencia de errores técnicos.</li>
+            <li>La exactitud o actualidad de los contenidos.</li>
+            <li>La ausencia de virus u otros elementos dañinos (aunque se adoptan medidas de seguridad).</li>
+        </ul>
+        <p>El USUARIO asume los riesgos derivados del uso del sitio. Los contenidos son meramente informativos y no vinculantes.</p>
+        
+        <h2>5. Modificaciones</h2>
+        <p>CabeDiem podrá actualizar este aviso legal unilateralmente. Los cambios entrarán en vigor tras su publicación en el SITIO WEB. La navegación continuada implicará su aceptación.</p>
+        
+        <h2>6. Enlaces a terceros</h2>
+        <p>El SITIO WEB puede incluir enlaces a sitios externos. CabeDiem:</p>
+        <ul>
+            <li>No controla ni asume responsabilidad por sus contenidos.</li>
+            <li>No garantiza su legalidad, fiabilidad o utilidad.</li>
+            <li>Recomienda revisar sus políticas legales antes de interactuar con ellos.</li>
+        </ul>
+        
+        <h2>7. Protección de datos</h2>
+        <p>El tratamiento de datos personales se rige por nuestra Política de Privacidad, conforme al RGPD (UE) 2016/679 y la LOPDGDD 3/2018. Puede consultarla en el SITIO WEB.</p>
+        
+        <h2>8. Cookies</h2>
+        <p>El SITIO WEB utiliza cookies según lo dispuesto en nuestra Política de Cookies que puede consultar en el SITIO WEB.</p>
+        
+        <h2>9. Legislación y jurisdicción</h2>
+        <p>El presente aviso legal y las condiciones de uso del SITIO WEB se interpretarán en todo caso de conformidad con la legislación española.</p>
+        <p>En el supuesto de que surgiera cualquier conflicto o discrepancia en la interpretación o aplicación del presente Aviso Legal o en relación con el funcionamiento y/o al uso de este SITIO WEB, los Juzgados y Tribunales que, en su caso, conocerán del asunto, serán los que disponga la normativa legal aplicable en materia de jurisdicción competente, en la que se atiende, tratándose de consumidores finales, al lugar en que éstos tengan su residencia habitual.</p>
+        <p>En el caso de que usted sea una persona jurídica o un profesional no consumidor, acepta expresamente que dichas controversias se sometan, con renuncia expresa a cualquier otro fuero, a los Juzgados y Tribunales de la ciudad de Bilbao (España).</p>
+        
+        <div class="update-date">
+            <p>Última actualización: 26/04/2025</p>
+        </div>
+    </div>
+</body>
+</html>
